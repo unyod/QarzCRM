@@ -1,0 +1,7 @@
+{
+  "name": "QarzCRM",
+  "description": "Nasiya savdo, qarzlar, kassa to'lovlari va mijozlar hisobini yuritish uchun zamonaviy SaaS CRM platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
